@@ -1,5 +1,7 @@
 github.com/ForbiddenR/micros-proto/golang/order v1.2.3 h1:PqQ5Ki4bfdXKAkJeCmi2172lunXRomRAWaur7kjmiTM=
 github.com/ForbiddenR/micros-proto/golang/order v1.2.3/go.mod h1:i8x9WFmi9p4OZPnARYNmsL+fwj8BE1MU+1c/Lnji07Y=
+github.com/ForbiddenR/micros-proto/golang/payment v0.0.5 h1:oPN6soPD20TWdYqTF3So3KTlwcDRJZ3ddiXJHBgNsaI=
+github.com/ForbiddenR/micros-proto/golang/payment v0.0.5/go.mod h1:G6f2Vbv9REaQWW73okBcMfcP4+aHR+V7Eus/fKiWfBs=
 github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
 github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
